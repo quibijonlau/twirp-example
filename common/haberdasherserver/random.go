@@ -18,7 +18,7 @@ import (
 	"math/rand"
 
 	"github.com/twitchtv/twirp"
-	"rpc/haberdasher"
+	"github.com/quibijonlau/twirp-example/rpc/haberdasher"
 )
 
 // New returns a new Haberdasher which returns random Hats of the requested
